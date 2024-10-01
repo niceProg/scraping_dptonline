@@ -21,8 +21,8 @@ DPTOnline Scraping adalah sebuah proyek yang digunakan untuk mengambil data pemi
 
 1. **Clone repo ini**:
     ```bash
-    git clone https://github.com/username/dptonline-scraping.git
-    cd dptonline-scraping
+    git clone https://github.com/niceProg/scraping_dptonline.git
+    cd scraping_dptonline
     ```
 
 2. **Install dependencies** menggunakan `pip`:
@@ -47,7 +47,7 @@ DPTOnline Scraping adalah sebuah proyek yang digunakan untuk mengambil data pemi
 2. **Jalankan skrip scraping**:
     - Buka terminal dan jalankan perintah berikut:
     ```bash
-    python dptonline_scraping.py
+    python tools.py
     ```
 
 3. **Hasil**:
